@@ -1,0 +1,11 @@
+Q1: what is Data Science?
+A: Data science is the study of data to extract meaningful insights for business. To extarct information, multidisciplinary approach is taken which includes maths, stats, AI and computer tech to analyze the large amount of data. This analysis helps data scientists to ask and answer questions like what happened, why it happened, what will happen, and what can be done with the results.
+
+Q2: Usage of data science.
+Ans: 1- Descriptive analysis : what has happened? what's happening
+2- Diagnostic analysis : Why has it happened
+3- Predictive analysis : What's going to happen
+4- Prescriptive analysis : Predictive analysis to the next level. It not only predicts what is likely to happen but also best response to the outcome.
+
+Q3: Data science process
+Ans
